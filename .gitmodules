@@ -7,3 +7,6 @@
 [submodule "slack-hue"]
 	path = slack-hue
 	url = https://github.com/dali-lab/slack-hue.git
+[submodule "mrtron"]
+	path = mrtron
+	url = https://github.com/dali-lab/mrtron.git
