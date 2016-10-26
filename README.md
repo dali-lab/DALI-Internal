@@ -14,6 +14,6 @@ $ git clone --recursive https://github.com/dali-lab/DALI-internal.git
 3. Submit a pull request
 
 # Table of Contents
-[Slack HR Bot](https://github.com/dali-lab/slack-hrbot.git)
-[Check In](https://github.com/dali-lab/check-in.git)
-[Slack Hue](https://github.com/dali-lab/slack-hue.git)
+- [Slack HR Bot](https://github.com/dali-lab/slack-hrbot.git)
+- [Check In](https://github.com/dali-lab/check-in.git)
+- [Slack Hue](https://github.com/dali-lab/slack-hue.git)
