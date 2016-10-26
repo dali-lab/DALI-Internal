@@ -1,0 +1,9 @@
+[submodule "slack-hrbot"]
+	path = slack-hrbot
+	url = https://github.com/dali-lab/slack-hrbot.git
+[submodule "check-in"]
+	path = check-in
+	url = https://github.com/dali-lab/check-in.git
+[submodule "slack-hue"]
+	path = slack-hue
+	url = https://github.com/dali-lab/slack-hue.git
