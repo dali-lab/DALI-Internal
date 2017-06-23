@@ -19,3 +19,6 @@
 [submodule "PMBot"]
 	path = PMBot
 	url = https://github.com/dali-lab/PMBot
+[submodule "Dali-App"]
+	path = Dali-App
+	url = https://github.com/dali-lab/Dali-App
