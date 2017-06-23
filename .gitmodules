@@ -10,3 +10,12 @@
 [submodule "mrtron"]
 	path = mrtron
 	url = https://github.com/dali-lab/mrtron.git
+[submodule "dali-whisperbot"]
+	path = dali-whisperbot
+	url = https://github.com/dali-lab/dali-whisperbot.git
+[submodule "DALI-App-server"]
+	path = DALI-App-server
+	url = https://github.com/dali-lab/DALI-App-server
+[submodule "PMBot"]
+	path = PMBot
+	url = https://github.com/dali-lab/PMBot
