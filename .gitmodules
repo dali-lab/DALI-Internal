@@ -1,24 +1,27 @@
 [submodule "slack-hrbot"]
 	path = slack-hrbot
-	url = https://github.com/dali-lab/slack-hrbot.git
+	url = git@github.com:dali-lab/slack-hrbot.git
 [submodule "check-in"]
 	path = check-in
-	url = https://github.com/dali-lab/check-in.git
+	url = git@github.com:dali-lab/check-in.git
 [submodule "slack-hue"]
 	path = slack-hue
-	url = https://github.com/dali-lab/slack-hue.git
+	url = git@github.com:dali-lab/slack-hue.git
 [submodule "mrtron"]
 	path = mrtron
-	url = https://github.com/dali-lab/mrtron.git
+	url = git@github.com:dali-lab/mrtron.git
 [submodule "dali-whisperbot"]
 	path = dali-whisperbot
-	url = https://github.com/dali-lab/dali-whisperbot.git
+	url = git@github.com:dali-lab/dali-whisperbot.git
 [submodule "DALI-App-server"]
 	path = DALI-App-server
-	url = https://github.com/dali-lab/DALI-App-server
+	url = git@github.com:dali-lab/DALI-App-server
 [submodule "PMBot"]
 	path = PMBot
-	url = https://github.com/dali-lab/PMBot
+	url = git@github.com:dali-lab/PMBot
 [submodule "Dali-App"]
 	path = Dali-App
-	url = https://github.com/dali-lab/Dali-App
+	url = git@github.com:dali-lab/Dali-App
+[submodule "dali-dashboard-api"]
+	path = dali-dashboard-api
+	url = git@github.com:dali-lab/dali-dashboard-api.git
