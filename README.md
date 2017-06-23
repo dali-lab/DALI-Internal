@@ -3,6 +3,7 @@
 Apps and integrations built for lab use are included here as submodules.
 
 # Contributing
+
 ## To clone all repositories
 ```bash
 $ git clone --recursive https://github.com/dali-lab/DALI-internal.git
@@ -13,8 +14,4 @@ $ git clone --recursive https://github.com/dali-lab/DALI-internal.git
 2. Create a branch named `feature/<feature-name>`
 3. Submit a pull request
 
-# Table of Contents
-- [Slack HR Bot](https://github.com/dali-lab/slack-hrbot.git)
-- [Check In](https://github.com/dali-lab/check-in.git)
-- [Slack Hue](https://github.com/dali-lab/slack-hue.git)
-- [Mr. Tron](https://github.com/dali-lab/mrtron.git)
+More information on using [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - submodules are a little bit tricky but the thing to remember is that the main repo points to specific commits of each submodule, thus to update you have to manually pull or `git submodule update --remote`, and often when you first check out you'll need to remember to switch to the `master` branch as well.
