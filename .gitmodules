@@ -34,3 +34,6 @@
 	path = dali-dashboard-api
 	url = git@github.com:dali-lab/dali-dashboard-api.git
  	branch = master
+[submodule "DaliDashboard"]
+	path = DaliDashboard
+	url = git@github.com:dali-lab/DaliDashboard.git
