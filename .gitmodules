@@ -37,3 +37,6 @@
 [submodule "DaliDashboard"]
 	path = DaliDashboard
 	url = git@github.com:dali-lab/DaliDashboard.git
+[submodule "API-iOS-Framework"]
+	path = API-iOS-Framework
+	url = git@github.com:dali-lab/API-iOS-Framework.git
