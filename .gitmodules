@@ -22,10 +22,6 @@
 	path = PMBot
 	url = git@github.com:dali-lab/PMBot
  	branch = master
-[submodule "Dali-App"]
-	path = Dali-App
-	url = git@github.com:dali-lab/Dali-App
- 	branch = master
 [submodule "DaliDashboard"]
 	path = DaliDashboard
 	url = git@github.com:dali-lab/DaliDashboard.git
@@ -40,4 +36,8 @@
 [submodule "API"]
 	path = API
 	url = git@github.com:dali-lab/DALI-api.git
+	branch = master
+[submodule "app"]
+	path = app
+	url = git@github.com:dali-lab/Dali-App.git
 	branch = master
