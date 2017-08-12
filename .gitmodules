@@ -30,10 +30,6 @@
 	path = Dali-App
 	url = git@github.com:dali-lab/Dali-App
  	branch = master
-[submodule "dali-dashboard-api"]
-	path = dali-dashboard-api
-	url = git@github.com:dali-lab/dali-dashboard-api.git
- 	branch = master
 [submodule "DaliDashboard"]
 	path = DaliDashboard
 	url = git@github.com:dali-lab/DaliDashboard.git
