@@ -18,10 +18,6 @@
 	path = dali-whisperbot
 	url = git@github.com:dali-lab/dali-whisperbot.git
  	branch = master
-[submodule "DALI-App-server"]
-	path = DALI-App-server
-	url = git@github.com:dali-lab/DALI-App-server
- 	branch = master
 [submodule "PMBot"]
 	path = PMBot
 	url = git@github.com:dali-lab/PMBot
@@ -36,6 +32,10 @@
 [submodule "Framework"]
 	path = Framework
 	url = git@github.com:dali-lab/DALI-Framework.git
+	branch = master
+[submodule "app-server"]
+	path = app-server
+	url = git@github.com:dali-lab/DALI-App-server
 	branch = master
 [submodule "API"]
 	path = API
