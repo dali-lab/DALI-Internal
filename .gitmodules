@@ -37,3 +37,7 @@
 [submodule "DaliDashboard"]
 	path = DaliDashboard
 	url = git@github.com:dali-lab/DaliDashboard.git
+[submodule "Framework"]
+	path = Framework
+	url = git@github.com:dali-lab/DALI-Framework.git
+	branch = master
