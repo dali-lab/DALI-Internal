@@ -37,3 +37,7 @@
 	path = Framework
 	url = git@github.com:dali-lab/DALI-Framework.git
 	branch = master
+[submodule "API"]
+	path = API
+	url = git@github.com:dali-lab/DALI-api.git
+	branch = master
