@@ -42,3 +42,6 @@
 	path = framework
 	url = git@github.com:dali-lab/DALI-Framework.git
 	branch = master
+[submodule "git-clock"]
+	path = git-clock
+	url = git@github.com:dali-lab/Git-Clock.git
