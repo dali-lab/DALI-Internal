@@ -22,20 +22,24 @@
 	path = PMBot
 	url = git@github.com:dali-lab/PMBot
  	branch = master
-[submodule "app-server"]
-	path = app-server
-	url = git@github.com:dali-lab/DALI-App-server
-	branch = master
 [submodule "API"]
 	path = API
 	url = git@github.com:dali-lab/DALI-api.git
 	branch = master
-[submodule "app"]
-	path = app
-	url = git@github.com:dali-lab/Dali-App.git
+[submodule "app-react-native"]
+	path = app-react-native
+	url = git@github.com:dali-lab/lab-app-react-native.git
 	branch = master
-[submodule "website"]
-	path = website
+[submodule "app-android"]
+	path = app-android
+	url = git@github.com:dali-lab/lab-app-android.git
+	branch = master
+[submodule "app-iOS"]
+	path = app-iOS
+	url = git@github.com:dali-lab/lab-app-iOS.git
+	branch = master
+[submodule "dashboard"]
+	path = dashboard
 	url = git@github.com:dali-lab/DaliDashboard.git
 	branch = master
 [submodule "framework"]
@@ -45,3 +49,4 @@
 [submodule "git-clock"]
 	path = git-clock
 	url = git@github.com:dali-lab/Git-Clock.git
+	branch = master
